@@ -1,9 +1,3 @@
----
-layout: post
-title: "Bluetooth Neopixels"
-date: 2017-12-09
----
-
 ## Concept
 
 Do you like bright shiny lights? Have you ever wished you could have bright
@@ -67,18 +61,17 @@ has 3.3v logic levels and Neopixels expect 5v logic levels.
 ## Layout
 ![fritzing]({{"/assets/neopixel_bluetooth_bb.png"}})  
 
-![noteattachment1][3f6e0cbe56a62753036f40fa755b0776]
-![noteattachment2][bcac705a1303034443e94a70dcb984af]
+[Fritzing File]({{"/assets/neopixel_bluetooth.fzz"}})
 
 ##Physical buildout
 
   
 
-![noteattachment3][2306a2438e5d3dcffad47804b3909aaf]  
+![front of the pcb]({{"/assets/img_20171126_235901.474.jpg"}})
 
   
 
-![noteattachment4][e43f2d8d317addb9458f1b98fcb76029]  
+![back of the pcb]({{"/assets/img_20171126_235915.149.jpg"}})
 
   
 
@@ -112,14 +105,8 @@ Control.
 You can then pick a color with the color picker or use the Control Pad to play
 the following effects.
 
-  
 
-  
-
-  
-
-![noteattachment5][1147de98693ebad9ceb25d5b868106a7]  
-
+![how to control the lights]({{"/assets/screenshot_20171209-120825.jpg"}})
   
 
 UP Arrow - **All One Color** , you can change the color with the ColorPicker
@@ -140,9 +127,7 @@ RIGHT Arrow - Twinkle Random
 
 4 **RainbowCycle** (takes long time to change back)
 
-  
 
-  
 
 ## Lessons learned while building
 
@@ -150,50 +135,4 @@ RIGHT Arrow - Twinkle Random
   * Check the resistors with a meter before installing, they may not be of the value you think
   * You cannot reasonably expect a micro controller with one voltage level for logic (3.3) to control a sensor or device with logic at another level (5v)
   * When soldering, check for continuity with a meter, will save you time later
-
-  
-
-
----
-### ATTACHMENTS
-[1147de98693ebad9ceb25d5b868106a7]: media/screenshot_20171209-120825.jpg
-[screenshot_20171209-120825.jpg](media/screenshot_20171209-120825.jpg)
->hash: 1147de98693ebad9ceb25d5b868106a7  
->timestamp: 19700101T000000Z  
->application-data: image  
->reco-type: unknown  
->file-name: screenshot_20171209-120825.jpg  
-
-[2306a2438e5d3dcffad47804b3909aaf]: media/img_20171126_235901.474.jpg
-[img_20171126_235901.474.jpg](media/img_20171126_235901.474.jpg)
->hash: 2306a2438e5d3dcffad47804b3909aaf  
->timestamp: 20171127T075901Z  
->latitude: 38.9083  
->longitude: -77.3918  
->altitude: 0  
->reco-type: unknown  
->file-name: img_20171126_235901.474.jpg  
-
-[3f6e0cbe56a62753036f40fa755b0776]: media/neopixel_bluetooth_bb.png
-[neopixel_bluetooth_bb.png](media/neopixel_bluetooth_bb.png)
->hash: 3f6e0cbe56a62753036f40fa755b0776  
->timestamp: 19700101T000000Z  
->reco-type: unknown  
->file-name: neopixel_bluetooth_bb.png  
-
-[e43f2d8d317addb9458f1b98fcb76029]: media/img_20171126_235915.149.jpg
-[img_20171126_235915.149.jpg](media/img_20171126_235915.149.jpg)
->hash: e43f2d8d317addb9458f1b98fcb76029  
->timestamp: 20171127T075915Z  
->latitude: 38.9083  
->longitude: -77.3918  
->altitude: 0  
->reco-type: unknown  
->file-name: img_20171126_235915.149.jpg  
-
-[bcac705a1303034443e94a70dcb984af]: media/neopixel_bluetooth.fzz
-[neopixel_bluetooth.fzz](media/neopixel_bluetooth.fzz)
->hash: bcac705a1303034443e94a70dcb984af  
->timestamp: 19700101T000000Z  
->file-name: neopixel_bluetooth.fzz  
 
