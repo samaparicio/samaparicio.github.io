@@ -63,7 +63,7 @@ has 3.3v logic levels and Neopixels expect 5v logic levels.
 
 [Fritzing File]({{"/assets/neopixel_bluetooth.fzz"}})
 
-##Physical buildout
+## Physical buildout
 
   
 
@@ -93,7 +93,7 @@ has 3.3v logic levels and Neopixels expect 5v logic levels.
 
 ## Software
 
-Link to Github goes here
+[Arduino Sketch](https://github.com/samaparicio/neopixel_bluetooth)
 
 
 ## Control
