@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Bluetooth Controlled Neopixels"
+title: "Bluetooth Neopixels"
 date: 2017-12-09
 ---
 
