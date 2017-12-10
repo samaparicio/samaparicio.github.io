@@ -1,7 +1,7 @@
 title: Sam Aparicio
 email: samuel@aparicio.org
 
-permalink: /:title.html
+permalink: /:title
 
 highlighter: rouge
 markdown: kramdown

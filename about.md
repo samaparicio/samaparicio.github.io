@@ -1,3 +1,9 @@
+---
+title: About
+---
+
+# Sam Aparicio
+
 Thanks for stopping by.
 
 ![sam aparicio]({{"/assets/sam-aparicio-mugshot.png"}})  
@@ -5,15 +11,15 @@ Thanks for stopping by.
 
 At work, I'm an entrepreneur and software designer. I co-founded:
 
-   * Angel.com - a pioneer SAAS call center company
-   * Ring.io - a CRM-centric telephony platform for inside sales & support teams
-   * Aptor - a blockchain and cryptocurrency consulting business
+   * [Angel.com](http://angel.com) - a pioneer SAAS call center company
+   * [Ring.io](http://ring.io) - a CRM-centric telephony platform for inside sales & support teams
+   * [Aptor](http://aptor.net) - a blockchain and cryptocurrency consulting business
   
 At home
 
   * I love the maker movement. I am a member of [Nova Labs](https://nova-labs.org)
 
-Find me:
+Reach out:
 
   * [Email](mailto:samuel@aparicio.org)
   * [Twitter](https://twitter.com/samaparicio)
