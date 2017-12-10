@@ -13,7 +13,7 @@ At work, I'm an entrepreneur and software designer. I co-founded:
 
    * [Angel.com](http://angel.com) - a pioneer SAAS call center company
    * [Ring.io](http://ring.io) - a CRM-centric telephony platform for inside sales & support teams
-   * [Aptor](http://aptor.net) - a blockchain and cryptocurrency consulting business
+   * Aptor - a blockchain and cryptocurrency consulting business
   
 At home
 
