@@ -8,7 +8,7 @@ mood.
 
   
 
-(video goes here)
+{% include youtube.html id=page.Jb4Bkz_O9vs %}
 
   
 
