@@ -16,10 +16,7 @@ mood.
 
   
 
-We are using an Arduino micro controller with a bluetooth module. This allows
-us to drive LED-programmable lights (Neopixels) with a widely available
-library, and from the Arduino environment we have some experience in, while
-enjoying all the coolness of controlling from a smartphone app.
+We are using an [Arduino compatible](https://www.arduino.cc/) microcontroller with a bluetooth module. This allows us to drive LED-programmable lights (Neopixels) with a widely available library, and from the Arduino environment we have some experience in, while enjoying all the coolness of controlling from a smartphone app.
 
   
 
@@ -99,7 +96,7 @@ has 3.3v logic levels and Neopixels expect 5v logic levels.
 ## Control
 
 
-Open the Bluefruit LE app, select your blue fruit and connect. Then go into
+Open the Bluefruit LE app ([Android](https://play.google.com/store/apps/details?id=com.adafruit.bluefruit.le.connect&hl=en) or [iOS](https://itunes.apple.com/us/app/adafruit-bluefruit-le-connect/id830125974?mt=8_)), select your bluefruit and connect. Then go into
 Control.
 
 You can then pick a color with the color picker or use the Control Pad to play
@@ -135,4 +132,10 @@ RIGHT Arrow - Twinkle Random
   * Check the resistors with a meter before installing, they may not be of the value you think
   * You cannot reasonably expect a micro controller with one voltage level for logic (3.3) to control a sensor or device with logic at another level (5v)
   * When soldering, check for continuity with a meter, will save you time later
+  
+## Shoutouts
+ * Shane Smith at Nova Labs for helping us figure out we were using the wrong resistors
+ * Becky Stern at Adafruit for writing a [sketch with the bluetooth code](https://learn.adafruit.com/adafruit-feather-32u4-bluefruit-le/controller)
+ * Shout out to [Adafruit](http://adafruit.com) for making awesome hardware
+ * Shout out to Tweaking4All for [writing the pixel animations](https://www.tweaking4all.com/hardware/arduino/adruino-led-strip-effects/)
 
