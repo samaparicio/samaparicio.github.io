@@ -13,6 +13,7 @@ At work, I'm an entrepreneur and software designer. I co-founded:
 
    * [Angel.com](https://angel.com) - a pioneer SAAS call center company
    * [Ring.io](https://ring.io) - a CRM-centric telephony platform for inside sales & support teams
+   * [Kinsta](https://staging-ququjile.kinsta.cloud/) - for Ashish
    * Aptor - a blockchain and cryptocurrency consulting business
   
 At home
