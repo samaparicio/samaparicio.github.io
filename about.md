@@ -13,12 +13,12 @@ At work, I'm an entrepreneur and software designer. I co-founded:
 
    * [Angel.com](https://angel.com) - a pioneer SAAS call center company
    * [Ring.io](https://ring.io) - a CRM-centric telephony platform for inside sales & support teams
-   * [Kinsta](https://staging-ququjile.kinsta.cloud/) - for Ashish
    * Aptor - a blockchain and cryptocurrency consulting business
   
 At home
 
-  * I love the maker movement. I am a member of [Nova Labs](https://nova-labs.org)
+  * I love the maker movement. I was a member of [Nova Labs](https://nova-labs.org)
+  * I now live in [Grenoble, France](https://www.grenoble-tourisme.com/en/). If you love mountains you owe it to yourself to come visit.
 
 Reach out:
 
