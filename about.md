@@ -11,14 +11,14 @@ Thanks for stopping by.
 
 At work, I'm an entrepreneur and software designer. I co-founded:
 
-   * [Angel.com](https://angel.com) - a pioneer SAAS call center company
-   * [Ring.io](https://ring.io) - a CRM-centric telephony platform for inside sales & support teams
-   * Aptor - a blockchain and cryptocurrency consulting business
+   * Angel.com - a pioneering SAAS call center company
+   * [Ring.io](https://ring.io) - a CRM-centric sales engagement platform
+   * Aptor - a software consulting business with a focus on product development
   
 At home
 
   * I love the maker movement. I was a member of [Nova Labs](https://nova-labs.org)
-  * I now live in [Grenoble, France](https://www.grenoble-tourisme.com/en/). If you love mountains you owe it to yourself to come visit.
+  * I now live in [Madrid, Spain](https://www.esmadrid.com/en). If you love vibrant city life and blue skies you owe it to yourself to come visit.
 
 Reach out:
 
